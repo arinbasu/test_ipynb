@@ -24,3 +24,6 @@ The idea is something like this:
 - I can access the ipynb notebook wherever I want
 - I can work on the ipynb notebook and push to overleaf
 - Overleaf can push it out to the rest of the world as pdf
+
+## so far so good. 
+It seems that we do not have to worry much about directly writing in markdown. Then, we shall see. 
