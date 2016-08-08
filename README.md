@@ -24,6 +24,13 @@ The idea is something like this:
 - I can access the ipynb notebook wherever I want
 - I can work on the ipynb notebook and push to overleaf
 - Overleaf can push it out to the rest of the world as pdf
+- 
+## It did not work well 
+- Keep the two separate but link with copy and paste using terminal
+- So start with Overleaf, it does not matter and keep the overleaf related files in the overleaf folder
+- Separatey clone github to another folder
+- Don't have to nest one within another
+- If we need, we will use the terminal to copy or move files from one to another
 
 ## so far so good. 
 It seems that we do not have to worry much about directly writing in markdown. Then, we shall see. 
